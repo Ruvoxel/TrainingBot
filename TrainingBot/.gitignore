@@ -1,0 +1,11 @@
+# === Python Cache ===
+
+__pycache__/
+
+# === Pytest Cache ===
+
+.pytest_cache/
+
+# === Venv ===
+
+venv/
