@@ -137,7 +137,8 @@ src/
 │       └── global_uow.py
 │
 ├── .gitignore
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ---
