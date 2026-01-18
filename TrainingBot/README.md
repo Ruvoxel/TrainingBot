@@ -182,7 +182,9 @@ python -m src.applications.console.run
 
 ## 🧪 Тестирование
 
-> python -m pytest -vv
+```bash
+python -m pytest -vv
+```
 
 ## 👤 Автор
 - ФИО: Улашкин Никита Вячеславович
